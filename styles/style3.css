@@ -1,0 +1,44 @@
+h2{
+    text-align: center;
+}
+
+.parent {
+    position: absolute;
+    height: 215px;
+    width: 500px;
+    border: 5px dotted #5f3c3c;
+    border-radius: 3%;
+    background-color: rgb(174, 192, 174);
+    text-transform: uppercase;
+}
+
+.child {
+    position: absolute;
+    height: 160px;
+    width: 190px;
+    border: 2px dotted #705454;
+    border-radius: 3%;
+}
+
+.child1 {
+    top: -1px;
+    z-index: 2;
+    background-color: #418e8e;
+}
+
+.child2 {
+    top: 55px;
+    left: 140px;
+    z-index: 5;
+    background-color: #a086a7;
+}
+
+.child3 {
+    left: 298px;
+    top: 28px;
+    z-index: 3;
+    background-color: #979e71;
+}
+
+
+
