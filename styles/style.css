@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(211, 210, 210);
+}
+
+.patrat {
+    position: relative;
+    height: 300px;
+    width: 300px;
+}
+
+.patrat1 {
+    background-color: yellow;
+}
+
+.patrat2 { 
+    top: 150px;
+    left: 150px;
+    background-color: blue;
+}
+
+.patrat3 {
+    top: 150px;
+    left: 150px;
+    background-color: green;
+}
